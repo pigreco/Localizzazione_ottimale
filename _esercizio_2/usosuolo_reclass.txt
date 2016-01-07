@@ -1,0 +1,8 @@
+# Esporta file QGIS mappa colori generata
+INTERPOLATION:DISCRETE
+1,31,120,180,255,1. Acqua/Edificato
+2.6,248,166,79,255,3. Terre umide
+4.2,61,255,47,255,4. Foreste
+5.8,219,216,232,255,6. Transizione
+7.4,64,167,55,255,7. Agricoltura
+9,255,127,0,255,9. Terre aride
